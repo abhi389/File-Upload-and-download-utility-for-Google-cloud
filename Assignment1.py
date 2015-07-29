@@ -1,6 +1,4 @@
 #Team of 2
-#Name : Sagar Lakhia (1001123182)
-#Team Member : Abhitej Date (1001113870)
 #Course Number : CSE 6331 002
 #Lab Number : Programming Assignment 1
 #The main 4 funtions i.e. put,get,list obj and delete have been implemented.
