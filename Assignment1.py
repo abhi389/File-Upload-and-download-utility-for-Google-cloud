@@ -1,5 +1,4 @@
 #Team of 2
-#Course Number : CSE 6331 002
 #Lab Number : Programming Assignment 1
 #The main 4 funtions i.e. put,get,list obj and delete have been implemented.
 #The encrypt_file and decrypt_file are the functions that encrypt and decrypt the file locally and returns the respected result file name
